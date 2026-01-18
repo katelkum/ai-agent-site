@@ -1,0 +1,6 @@
+# CMS Files (local only - NOT for GitHub)
+build.js
+deploy.sh
+content/
+src/
+templates/
